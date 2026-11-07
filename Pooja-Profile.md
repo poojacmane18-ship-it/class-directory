@@ -2,7 +2,7 @@
 
 **College or field:** YOUR COLLEGE OR FIELD
 
-**City:** NAVI MUMBAI
+**City:** MUMBAI
 
 ## About me1
 
